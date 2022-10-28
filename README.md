@@ -3,7 +3,7 @@
 
   ## Description
 
-  This C# console application allows users to create unique badges for each of their employees. A faux company called Cat Worx is used as an example.
+  This C# console application allows users to create unique badges for each of their employees. Badges are output to the /data/dist folder. A faux company called Cat Worx is used as an example.
 
   ## Table of Contents
 
