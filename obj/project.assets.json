@@ -209,11 +209,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sora64/Projects/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+      "projectUniqueName": "/Users/sora64/Projects/catworx-c-sharp/CatWorx.BadgeMaker.csproj",
       "projectName": "CatWorx.BadgeMaker",
-      "projectPath": "/Users/sora64/Projects/CatWorx.BadgeMaker/CatWorx.BadgeMaker.csproj",
+      "projectPath": "/Users/sora64/Projects/catworx-c-sharp/CatWorx.BadgeMaker.csproj",
       "packagesPath": "/Users/sora64/.nuget/packages/",
-      "outputPath": "/Users/sora64/Projects/CatWorx.BadgeMaker/obj/",
+      "outputPath": "/Users/sora64/Projects/catworx-c-sharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sora64/.nuget/NuGet/NuGet.Config"
