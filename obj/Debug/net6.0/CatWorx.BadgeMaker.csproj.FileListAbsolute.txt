@@ -40,3 +40,4 @@
 /Users/sora64/Projects/catworx-c-sharp/obj/Debug/net6.0/CatWorx.BadgeMaker.pdb
 /Users/sora64/Projects/catworx-c-sharp/obj/Debug/net6.0/CatWorx.BadgeMaker.genruntimeconfig.cache
 /Users/sora64/Projects/catworx-c-sharp/obj/Debug/net6.0/ref/CatWorx.BadgeMaker.dll
+/Users/sora64/Projects/catworx-c-sharp/bin/Debug/net6.0/Newtonsoft.Json.dll

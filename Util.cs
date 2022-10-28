@@ -85,7 +85,11 @@ namespace CatWorx.BadgeMaker
 
                     SKImage finalImage = SKImage.FromBitmap(badge);
                     SKData data = finalImage.Encode();
-                    string template = "data/{0}_badge.png";
+                    if (!Directory.Exists("data/dist"))
+                    {
+                        Directory.CreateDirectory("data/dist");
+                    }
+                    string template = "data/dist/{0}_badge.png";
                     data.SaveTo(File.OpenWrite(string.Format(template, employees[i].GetId())));
                 }
             }
