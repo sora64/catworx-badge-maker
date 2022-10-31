@@ -1,5 +1,5 @@
 
-  # C#-CatWorx-Badge-Maker
+  # CatWorx-Badge-Maker
 
   ## Description
 
