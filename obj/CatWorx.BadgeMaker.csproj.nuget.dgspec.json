@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sora64/Projects/catworx-c-sharp/CatWorx.BadgeMaker.csproj": {}
+    "/Users/alanphelps/Projects/catworx-badge-maker/CatWorx.BadgeMaker.csproj": {}
   },
   "projects": {
-    "/Users/sora64/Projects/catworx-c-sharp/CatWorx.BadgeMaker.csproj": {
+    "/Users/alanphelps/Projects/catworx-badge-maker/CatWorx.BadgeMaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sora64/Projects/catworx-c-sharp/CatWorx.BadgeMaker.csproj",
+        "projectUniqueName": "/Users/alanphelps/Projects/catworx-badge-maker/CatWorx.BadgeMaker.csproj",
         "projectName": "CatWorx.BadgeMaker",
-        "projectPath": "/Users/sora64/Projects/catworx-c-sharp/CatWorx.BadgeMaker.csproj",
-        "packagesPath": "/Users/sora64/.nuget/packages/",
-        "outputPath": "/Users/sora64/Projects/catworx-c-sharp/obj/",
+        "projectPath": "/Users/alanphelps/Projects/catworx-badge-maker/CatWorx.BadgeMaker.csproj",
+        "packagesPath": "/Users/alanphelps/.nuget/packages/",
+        "outputPath": "/Users/alanphelps/Projects/catworx-badge-maker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sora64/.nuget/NuGet/NuGet.Config"
+          "/Users/alanphelps/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

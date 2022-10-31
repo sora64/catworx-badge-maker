@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CatWorx.BadgeMaker
-build_property.ProjectDir = /Users/sora64/Projects/catworx-c-sharp/
+build_property.ProjectDir = /Users/alanphelps/Projects/catworx-badge-maker/

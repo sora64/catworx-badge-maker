@@ -26,7 +26,7 @@ namespace CatWorx.BadgeMaker
 
                 for (int i = 0; i < employees.Count; i++)
                 {
-                    string template = "{0},{1},{2}";
+                    string template = "{0},{1},{2},{3}";
                     file.WriteLine(String.Format(template, employees[i].GetId(), employees[i].GetFullName(), employees[i].GetPhotoUrl(), employees[i].GetCompanyName()));
                 }
             }
