@@ -13,16 +13,20 @@ namespace CatWorx.BadgeMaker
             if (finalAnswer == "random")
             {
                 employees = await PeopleFetcher.GetFromApi();
-                Util.PrintEmployees(employees);
-                Util.MakeCSV(employees);
-                await Util.MakeBadges(employees);
-            } else if (finalAnswer == "own")
+                await DoTheRest(employees);
+            }
+            else if (finalAnswer == "own")
             {
                 employees = PeopleFetcher.GetEmployees();
-                Util.PrintEmployees(employees);
-                Util.MakeCSV(employees);
-                await Util.MakeBadges(employees);
+                await DoTheRest(employees);
             }
+        }
+
+        async static Task DoTheRest(List<Employee> employees)
+        {
+            Util.PrintEmployees(employees);
+            Util.MakeCSV(employees);
+            await Util.MakeBadges(employees);
         }
     }
 }
