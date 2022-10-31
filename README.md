@@ -1,5 +1,5 @@
 
-  # CatWorx-C-Sharp
+  # C#-CatWorx-Badge-Maker
 
   ## Description
 
@@ -13,7 +13,7 @@
 
   ## Usage
 
-  After starting the program with the command line prompt "dotnet run" while in this application's root directory, the user is asked whether they would like to use random data or provide their own. If the former, 10 randomly generated badges are created. If the latter, the user is asked to provide a first name, last name, ID number, and a photo URL for all employees for whom they would like to create a badge; upon pressing enter instead of providing a first name for another employee, badges for all provided employees are created. In either use case, all badges are output to the /data/dist folder.
+  After running the program, the user is asked whether they would like to use random data or provide their own. If the former, 10 randomly generated badges are created. If the latter, the user is asked to provide a first name, last name, ID number, and a photo URL for all employees for whom they would like to create a badge; upon pressing enter instead of providing a first name for another employee, badges for all provided employees are created. In either use case, all badges are output to the /data/dist folder.
 
   ## Example
   <img src="data/employeeBadge.png" alt="A sample badge" width="350"/>
