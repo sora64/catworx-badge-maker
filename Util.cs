@@ -22,7 +22,7 @@ namespace CatWorx.BadgeMaker
 
             using (StreamWriter file = new StreamWriter("data/employees.csv"))
             {
-                file.WriteLine("ID, Name, PhotUrl");
+                file.WriteLine("ID, Name, PhotUrl, Company");
 
                 for (int i = 0; i < employees.Count; i++)
                 {
