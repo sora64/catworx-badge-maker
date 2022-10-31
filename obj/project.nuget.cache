@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "GTn9fd4MGU1n/xoUcLkyuUR/IW+8uFWWuNGF1yuu7nR1PQM3tlKxJWM6mVU+1ok9eXNBi5fH46/HiFWkEa6HsQ==",
+  "dgSpecHash": "1tzpYjmvMPUDDu+qJbjDkQW33nxJJmZm3iSF8WzJh5T8wD+OWTKGOZnaklAADlLO4hGdxUfTLRevP5Sxj8XXrA==",
   "success": true,
-  "projectFilePath": "/Users/alanphelps/Projects/catworx-badge-maker/CatWorx.BadgeMaker.csproj",
+  "projectFilePath": "/Users/sora64/Projects/catworx-c-sharp/CatWorx.BadgeMaker.csproj",
   "expectedPackageFiles": [
-    "/Users/alanphelps/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
-    "/Users/alanphelps/.nuget/packages/skiasharp/2.88.0/skiasharp.2.88.0.nupkg.sha512",
-    "/Users/alanphelps/.nuget/packages/skiasharp.nativeassets.macos/2.88.0/skiasharp.nativeassets.macos.2.88.0.nupkg.sha512",
-    "/Users/alanphelps/.nuget/packages/skiasharp.nativeassets.win32/2.88.0/skiasharp.nativeassets.win32.2.88.0.nupkg.sha512",
-    "/Users/alanphelps/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/Users/sora64/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/sora64/.nuget/packages/skiasharp/2.88.0/skiasharp.2.88.0.nupkg.sha512",
+    "/Users/sora64/.nuget/packages/skiasharp.nativeassets.macos/2.88.0/skiasharp.nativeassets.macos.2.88.0.nupkg.sha512",
+    "/Users/sora64/.nuget/packages/skiasharp.nativeassets.win32/2.88.0/skiasharp.nativeassets.win32.2.88.0.nupkg.sha512",
+    "/Users/sora64/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

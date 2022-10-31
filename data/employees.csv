@@ -1,11 +1,2 @@
-ID, Name, PhotUrl
-741465031,Peter Grant,https://randomuser.me/api/portraits/men/43.jpg,Cat Worx
-797968263,Chester Sutton,https://randomuser.me/api/portraits/men/15.jpg,Cat Worx
-282223839,Gabe Carroll,https://randomuser.me/api/portraits/men/24.jpg,Cat Worx
-124349965,Leah James,https://randomuser.me/api/portraits/women/82.jpg,Cat Worx
-351712344,Gloria Mccoy,https://randomuser.me/api/portraits/women/18.jpg,Cat Worx
-367983020,Megan Obrien,https://randomuser.me/api/portraits/women/45.jpg,Cat Worx
-547115269,Marcus Hanson,https://randomuser.me/api/portraits/men/46.jpg,Cat Worx
-506057157,Roger Arnold,https://randomuser.me/api/portraits/men/83.jpg,Cat Worx
-861704491,Evelyn Reed,https://randomuser.me/api/portraits/women/48.jpg,Cat Worx
-809313084,Shelly Edwards,https://randomuser.me/api/portraits/women/72.jpg,Cat Worx
+ID, Name, PhotUrl, Company
+123456789,Finn Phelps,https://placekitten.com/400/400,Cat Worx
